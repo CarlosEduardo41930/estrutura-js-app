@@ -1,0 +1,18 @@
+{
+  "name": "estrutura-js-app",
+  "version": "1.0.0",
+  "description": "Gerador de estrutura Fullstack React + Express + Tailwind",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "estrutura-js-app": "./index.js"
+  },
+  "keywords": ["cli", "fullstack", "react", "express", "vite"],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "execa": "^9.0.0",
+    "fs-extra": "^11.2.0"
+  }
+}
